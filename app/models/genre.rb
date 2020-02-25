@@ -19,4 +19,5 @@ class Genre < ActiveRecord::Base
     end
     # self.artists.map(&:name)
   end
+  
 end
